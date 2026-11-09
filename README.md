@@ -1,8 +1,8 @@
-<h1 align="left">Hola Bienvenido a mi Perfil 👋</h1>
+<h1 align="left">Hola Bienvenido a mi Perfil</h1>
 
 ###
 
-<p align="left">Aspirante a Desarrollador Web con interes en Diseño UI & UX</p>
+<p align="left">Desarrollador Web con interes en Diseño UI & UX</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Experimentando en el mundo de desarrollo desde 2024<br><br>📚 Estoy en proceso de aprendizaje en el Instituto Tecnologico UNIR <br><br>🎯 Metas : Entrar en un entorno de desarrollo web profesional para dar soluciones robustas y potenciar mis conocimientos<br><br>Mis conocimientos de las tecnologias mencionadas abajo esta en orden de mayor a menor conocimiento , es decir que las primeras tecnologias son las que mas se manejar</p>
+<p align="left">Experimentando en el mundo de desarrollo desde 2024<br><br>Graduado en el Instituto Tecnologico UNIR como TSU en Informatica<br><br>- Metas : Entrar en un entorno de desarrollo web profesional para dar soluciones robustas y potenciar mis conocimientos<br><br>Mis conocimientos de las tecnologias mencionadas abajo esta en orden de mayor a menor conocimiento , es decir que las primeras tecnologias son las que mas se manejar</p>
 
 ###
 
